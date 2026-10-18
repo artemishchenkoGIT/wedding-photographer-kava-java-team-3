@@ -15,7 +15,7 @@ options for potential clients.
 - 🌐 **Live Demo:**
   [Wedding Photographer Website](https://artemishchenkogit.github.io/wedding-photographer-kava-java-team-3/)
 - 🎨 **Figma Design Layout:**
-  [Figma Design Template](https://www.figma.com/design/1NQE6vjOSpKc8FzDTl7HLw/Organic-shop--Copy-?node-id=5999-10563&p=f&t=7718K79MTTchJsJM-0)
+  [Figma Design Template](https://www.figma.com/design/LxCtk8OaQl3GBkE9oIcfsE/%D0%92%D0%B5%D1%81%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84--Copy-?node-id=5999-10563&p=f&t=w9vhQWhvFDkYdbDM-0)
 - 💻 **Source Code:**
   [GitHub Repository](https://github.com/artemishchenkoGIT/wedding-photographer-kava-java-team-3)
 
